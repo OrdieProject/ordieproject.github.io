@@ -29,3 +29,7 @@ There is absolutely no way Ordie could be developed in isolation. Ordie relies o
 ## Project Status
 
 Ordie is just getting started, so there's not much here yet.
+
+## Development Logistics
+
+Ordie is developed on GitHub under the [OrdieProject](https://github.com/OrdieProject) group. The administrative contact is Sean 'xobs' Cross.
