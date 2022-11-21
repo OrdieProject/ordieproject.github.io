@@ -61,18 +61,6 @@ pygmentsStyle = "pygments"
 
 [menu]
   [[menu.nav]]
-    name = "Home"
-    url = "/"
+    name = "View on GitHub"
+    url = "https://github.com/OrdieProject/ordieproject.github.io"
     weight = 1
-  [[menu.nav]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
-  [[menu.nav]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-  [[menu.nav]]
-    name = "RSS"
-    url = "/index.xml"
-    weight = 4
